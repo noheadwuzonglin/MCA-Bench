@@ -1,0 +1,14 @@
+# Core dependencies
+gradio==5.4.0
+gradio_client==1.4.2
+qwen-vl-utils==0.0.10
+transformers-stream-generator==0.0.4
+torch==2.4.0
+torchvision==0.19.0
+transformers==4.44.0  # Use a specific version of transformers
+accelerate
+av
+
+# Optional dependency
+# Uncomment the following line if you need flash-attn
+# flash-attn==2.6.1

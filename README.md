@@ -1,5 +1,4 @@
-<center><strong>MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks</strong></center>
-
+# :fire: MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks (AAAI2026)
 <div align="center">
 <strong>Zonglin Wu¹</strong>  <strong>Yule Xue¹</strong>  <strong> Yaoyao Feng¹</strong>  <strong> Xiaolong Wang¹</strong>  <strong>Yiren Song²</strong><sup>★</sup><br>  
 <strong>¹</strong> Southwest University  <strong>²</strong> National University of Singapore<br>

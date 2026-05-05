@@ -1,4 +1,4 @@
-# :fire: MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks (AAAI2026)
+# :fire: MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks (AAAI2026 oral)
 
 <a href='https://ojs.aaai.org/index.php/AAAI/article/view/41141'><img src='https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg'></a> &nbsp;&nbsp;
 

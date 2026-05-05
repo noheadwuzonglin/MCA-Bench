@@ -1,6 +1,6 @@
 # :fire: MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks (AAAI2026)
 
-<a href='https://arxiv.org/abs/2506.05982'><img src='https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg'></a> &nbsp;&nbsp;
+<a href='https://ojs.aaai.org/index.php/AAAI/article/view/41141'><img src='https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg'></a> &nbsp;&nbsp;
 
 <div align="center">
 <strong>Zonglin Wu¹</strong>  <strong>Yule Xue¹</strong>  <strong> Yaoyao Feng¹</strong>  <strong> Xiaolong Wang¹</strong>  <strong>Yiren Song²</strong><sup>★</sup><br>  

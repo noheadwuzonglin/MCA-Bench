@@ -75,14 +75,19 @@ We use the same environment as Qwen 2.5-vl, refer to https://github.com/QwenLM/Q
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
 
 ```latex
-@misc{wu2025mcabenchmultimodalbenchmarkevaluating,
-      title={MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks}, 
-      author={Zonglin Wu and Yule Xue and Yaoyao Feng and Xiaolong Wang and Yiren Song},
-      year={2025},
-      eprint={2506.05982},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.05982}, 
-}
+@article{Wu_Xue_Feng_Wang_Song_2026, title={MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks}, volume={40}, url={https://ojs.aaai.org/index.php/AAAI/article/view/41141}, DOI={10.1609/aaai.v40i44.41141}, abstractNote={As automated attack techniques rapidly advance, CAPTCHAs remain a critical defense mechanism against malicious bots. However, existing CAPTCHA
+schemes encompass a diverse range of modalities—from static distorted text and
+obfuscated images to interactive clicks, sliding puzzles, and logic-based questions—yet the community still lacks a unified, large-scale, multimodal benchmark to rigorously evaluate their security robustness. To address this gap, we
+introduce MCA-Bench, a comprehensive and reproducible benchmarking suite
+that integrates heterogeneous CAPTCHA types into a single evaluation protocol.
+Leveraging a shared vision–language model backbone, we fine-tune specialized
+cracking agents for each CAPTCHA category, enabling consistent, cross-modal
+assessments. Extensive experiments reveal that MCA-Bench effectively maps
+the vulnerability spectrum of modern CAPTCHA designs under varied attack
+settings, and—crucially—offers the first quantitative analysis of how challenge
+complexity, interaction depth, and model solvability interrelate. Based on these
+findings, we propose three actionable design principles and identify key open
+challenges, laying the groundwork for systematic CAPTCHA hardening, fair
+benchmarking, and broader community collaboration.}, number={44}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Wu, Zonglin and Xue, Yule and Feng, Yaoyao and Wang, Xiaolong and Song, Yiren}, year={2026}, month={Mar.}, pages={38039-38047} }
 ```
 

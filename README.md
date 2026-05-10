@@ -14,7 +14,7 @@ As automated attack techniques rapidly advance, CAPTCHAs remain a critical defen
 
 Datasets are available at https://www.kaggle.com/datasets/luffy798/mca-benchmultimodal-captchas. 
 
-Paper:https://arxiv.org/abs/2506.05982
+Paper:[https://arxiv.org/abs/2506.05982](https://ojs.aaai.org/index.php/AAAI/article/view/41141)
 
 ![Snipaste_2025-06-13_13-58-09](./imgs/Snipaste_2025-06-13_13-58-09.png)
 

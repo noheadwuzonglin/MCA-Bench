@@ -34,26 +34,26 @@ Paper:(https://ojs.aaai.org/index.php/AAAI/article/view/41141)
 
 | CAPTCHA Category                 | Task Name                    | QwenVL-2.5-7B-Instruct Pass Rate | Human Pass Rate |
 | -------------------------------- | ---------------------------- | -------------------------------- | --------------- |
-| **Point-and-Click Localization** | 3×3 grid selection           | 0.96                             | 0.88            |
-|                                  | Inverted-letter selection    | 0.52                             | 0.94            |
-|                                  | Geometric-shape recognition  | 0.96                             | 0.98            |
-|                                  | Brightness discrimination    | 0.665                            | 0.78            |
-|                                  | Hollow-pattern recognition   | 0.995                            | 0.98            |
-|                                  | Sequential-letter ordering   | 0.925                            | 0.98            |
-|                                  | Full-image grid selection    | 0.35                             | 0.74            |
-|                                  | Color discrimination         | 0.99                             | 0.88            |
-|                                  | Vowel selection              | 0.975                            | 0.80            |
-|                                  | Arithmetic selection         | 0.025                            | 0.78            |
-|                                  | Rotated-letter selection     | 0.335                            | 0.74            |
-|                                  | 3×3 jigsaw-swap selection    | 0.96                             | 0.80            |
-| **Static Visual Recognition**    | Classic character CAPTCHA    | 0.32                             | 0.92            |
-|                                  | Distorted-word CAPTCHA       | 0.985                            | 0.84            |
-|                                  | Arithmetic-character CAPTCHA | 0.695                            | 0.98            |
-| **Textual Logic Q&A**            | Text-based arithmetic        | 0.985                            | 0.97            |
-|                                  | Commonsense reasoning        | 0.97                             | 0.86            |
-| **Interactive Manipulation**     | Sliding-block                | 0.36                             | 0.74            |
-|                                  | Rotation-block               | 0.28                             | 0.76            |
-|                                  | Alignment sliders            | 0.55                             | 0.72            |
+| **Point-and-Click Localization** | 3×3 grid selection           | 0.960                            | 0.880           |
+|                                  | Inverted-letter selection    | 0.520                            | 0.940           |
+|                                  | Geometric-shape recognition  | 0.960                            | 0.980           |
+|                                  | Brightness discrimination    | 0.665                            | 0.780           |
+|                                  | Hollow-pattern recognition   | 0.995                            | 0.985           |
+|                                  | Sequential-letter ordering   | 0.925                            | 0.980           |
+|                                  | Full-image grid selection    | 0.350                            | 0.740           |
+|                                  | Color discrimination         | 0.990                            | 0.885           |
+|                                  | Vowel selection              | 0.975                            | 0.805           |
+|                                  | Arithmetic selection         | 0.025                            | 0.780           |
+|                                  | Rotated-letter selection     | 0.335                            | 0.745           |
+|                                  | 3×3 jigsaw-swap selection    | 0.015                            | 0.805           |
+| **Static Visual Recognition**    | Classic character CAPTCHA    | 0.320                            | 0.920           |
+|                                  | Distorted-word CAPTCHA       | 0.985                            | 0.840           |
+|                                  | Arithmetic-character CAPTCHA | 0.695                            | 0.985           |
+| **Textual Logic Q&A**            | Text-based arithmetic        | 0.985                            | 0.970           |
+|                                  | Commonsense reasoning        | 0.970                            | 0.860           |
+| **Interactive Manipulation**     | Sliding-block                | 0.360                            | 0.740           |
+|                                  | Rotation-block               | 0.280                            | 0.760           |
+|                                  | Alignment sliders            | 0.550                            | 0.720           |
 
 # Quickstart
 
